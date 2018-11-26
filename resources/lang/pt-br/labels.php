@@ -1,0 +1,33 @@
+<?php
+
+return [
+
+  'Users' => 'Usuários',
+  'email' => 'email',
+  'Products' => 'Produtos',
+  'Street' => 'Rua',
+  'Name' => 'Nome',
+  'Password' => 'Senha',
+  'Confirm Password' => 'Confirmar Senha',
+  'Postal Code' => 'CEP',
+  'District' => 'Bairro',
+  'Number' => 'Numero',
+  'Complement' => 'Complemento',
+  'City' => 'Cidade',
+  'State' => 'Estado /UF',
+  'Description' => 'Descrição',
+  'Price' => 'Preço',
+  'Choose Image' => 'Enconte a Imagem',
+  'Product title' => 'Titulo do Produto',
+  'description' => 'Descrição',
+  'Price' => 'Preço',
+  'Image upload' => 'Upload da Imagem',
+  'Choose thumbnail' => 'Escolha a miniatura',
+  'LogOut' => 'Sair',
+  'Products' => 'Produtos',
+  'User' => 'Usuário',
+  'Login' => 'Entrar',
+  'Register' => 'Registrar-se',
+  'profile' => 'Perfil',
+  'title' => 'Tíulo',
+];
